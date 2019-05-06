@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <additional_parameters/>
+        <autolaunch_order>0</autolaunch_order>
+        <context>sp?id=security_knowledge&amp;gtd_portal_title=Service Portal &amp;gtd_page_title=Knowledge Base</context>
+        <description/>
+        <has_concl>false</has_concl>
+        <has_intro>false</has_intro>
+        <name>Test Guided Tour go</name>
+        <options/>
+        <roles/>
+        <sp_page display_value="security_knowledge">6f40733d537a1300a8ed21fac2dc34f3</sp_page>
+        <sp_portal display_value="Service Portal ">81b75d3147032100ba13a5554ee4902b</sp_portal>
+        <status>draft</status>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-03 20:32:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1191a4c4dbd13300a7d19d62ba961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Guided Tour go</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_1191a4c4dbd13300a7d19d62ba961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-03 20:32:31</sys_updated_on>
+        <type>service_portal</type>
+    </sys_embedded_tour_guide>
+</record_update>
